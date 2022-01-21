@@ -23,10 +23,6 @@ get with it.
 <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> &nbsp;
 <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jannatinnaim&count_private=true&show_icons=true&custom_title=GitHub+Contributions&include_all_commits=true&theme=graywhite&hide_title=true#gh-light-mode-only)
-
 ## Languages Used
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jannatinnaim&custom_title=Programming+Languages&layout=compact&langs_count=10&theme=graywhite&hide_title=true#gh-light-mode-only)
@@ -34,13 +30,5 @@ get with it.
 ## Coding Time
 
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=jannatinnaim&layout=compact&langs_count=10&custom_title=Coding+Time&range=all_time&theme=graywhite&hide_title=true#gh-light-mode-only)
-
-## GitHub Contribution Streak
-
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JannatinNaim&theme=graywhite&date_format=M%20j%5B%2C%20Y%5D#gh-light-mode-only)
-
-## GitHub Achievements
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jannatinnaim&row=2&column=3&margin-h=15&margin-w=15&theme=flat#gh-light-mode-only)
 
 </div>
