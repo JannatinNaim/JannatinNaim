@@ -9,7 +9,7 @@ get with it.
 
 </div>
 
--   Working on [Chat Alerts](https://jannatinnaim.com/ChatAlerts).
+-   Working on [CS50x](https://cs50.harvard.edu/x/2022/).
 -   Learning [Full Stack Web Development](https://github.com/JannatinNaim).
 -   Goals set to [Getting a Job as a Web Developer](https://www.youtube.com/watch?v=ebJ0XBOjowo).
 
@@ -19,9 +19,12 @@ get with it.
 
 <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> &nbsp;
 <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> &nbsp;
+<img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> &nbsp;
+<img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> &nbsp;
 <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> &nbsp;
 <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> &nbsp;
-<img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> &nbsp;
+<img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" /> &nbsp;
 
 ## Languages Used
 
