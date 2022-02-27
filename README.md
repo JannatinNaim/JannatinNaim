@@ -28,10 +28,10 @@ get with it.
 
 ## Languages Used
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jannatinnaim&custom_title=Programming+Languages&layout=compact&langs_count=10&theme=graywhite&hide_title=true#gh-light-mode-only)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JannatinNaim&custom_title=Programming+Languages&layout=compact&langs_count=10&theme=graywhite&hide_title=true#gh-light-mode-only)
 
 ## Coding Time
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=jannatinnaim&layout=compact&langs_count=10&custom_title=Coding+Time&range=all_time&theme=graywhite&hide_title=true#gh-light-mode-only)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=JannatinNaim&layout=compact&langs_count=10&custom_title=Coding+Time&range=all_time&theme=graywhite&hide_title=true#gh-light-mode-only)
 
 </div>
