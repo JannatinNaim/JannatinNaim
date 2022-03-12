@@ -4,8 +4,7 @@
 
 <br />
 
-I'm a high school student with big dreams. Web development is a passion of mine and I love the awesome community that I
-get with it.
+I've been a Web Designer for 3 years now. Over this period I've worked on several projects; some my own and some group-based. Problems and hard challenges were faced while working on them but I eventually sorted them out. All that matters to me is I get the thing done, doesn't matter how.
 
 </div>
 
