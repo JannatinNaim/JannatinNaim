@@ -39,6 +39,8 @@ the repositories I have over here. So, explore them if you want to better unders
 
 ## Coding Time
 
+[![WakaTime Stats Total](https://wakatime.com/badge/user/3657e34f-f6ef-4d34-b279-d978809eee32.svg?style=for-the-badge)](https://wakatime.com/@JannatinNaim)
+
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=JannatinNaim&layout=compact&langs_count=10&custom_title=Coding+Time&range=all_time&theme=graywhite&hide_title=true#gh-light-mode-only)
 
 </div>
