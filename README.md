@@ -1,7 +1,7 @@
 ![Banner Image](./src/banner.png)
 
 "Strive to be lazy", what do you mean? Don't get the wrong idea here. What I mean by being "lazy" is to not overdo things. It's something I suffer from and
-that's why I've turned it into my motto to put brakes on my action. ;)
+that's why I've turned it into my motto to put brakes on my action.
 
 <div align="center">
 
