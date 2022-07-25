@@ -72,6 +72,6 @@ that's why I've turned it into my motto to put brakes on my action.
 
 <div align="center">
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/1000142802849628254?hideDiscrim=true&idleMessage=Probably%20nothing%20productive...&bg=ffffff&radius=3px)
+![Discord Presence](https://lanyard.cnrad.dev/api/914782454554984478?hideDiscrim=true&idleMessage=Probably%20nothing%20productive...&bg=ffffff&radius=3px&theme=light)
 
 </div>
