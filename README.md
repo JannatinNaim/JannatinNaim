@@ -47,6 +47,7 @@ that's why I've turned it into my motto to put brakes on my action.
 <div align="center">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JannatinNaim&custom_title=Programming+Languages&layout=compact&langs_count=10&theme=graywhite&hide_title=true#gh-light-mode-only)
+
 </div>
 
 <div align="center">
@@ -60,5 +61,17 @@ that's why I've turned it into my motto to put brakes on my action.
 [![WakaTime Stats Total](https://wakatime.com/badge/user/3657e34f-f6ef-4d34-b279-d978809eee32.svg?style=for-the-badge)](https://wakatime.com/@JannatinNaim)
 
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=JannatinNaim&layout=compact&langs_count=10&custom_title=Coding+Time&range=all_time&theme=graywhite&hide_title=true#gh-light-mode-only)
+
+</div>
+
+<div align="center">
+
+## What I'm Doing Right Now
+
+</div>
+
+<div align="center">
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/1000142802849628254?hideDiscrim=true&idleMessage=Probably%20nothing%20productive...&bg=ffffff&radius=3px)
 
 </div>
