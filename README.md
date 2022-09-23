@@ -15,6 +15,7 @@ that's why I've turned it into my motto to put brakes on my actions.
 
 <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> &nbsp;
 <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> &nbsp;
+<img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" /> &nbsp;
 
 ### Keeping An Eye On
 
