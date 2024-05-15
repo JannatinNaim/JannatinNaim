@@ -2,10 +2,14 @@
 
 # Heyo! How's it going?
 
+</div>
+
 I do full-stack development within
 the JavaScript/TypeScript ecosystem. You can see my tools of choice down below. Look at my activity below to see what
 I'm working on these days. I also do consulting for small-medium sized projects
 so, [hit me up](mailto:jannatinnaim@pondit.family) if you're interested.
+
+<div align="center">
 
 ## Time Spent Coding
 
@@ -15,18 +19,21 @@ so, [hit me up](mailto:jannatinnaim@pondit.family) if you're interested.
 
 ## Tools & Frameworks
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="44" alt="React.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="44" alt="React.js" title="React.js" />
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="44" alt="Next.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="44" alt="Next.js" title="Next.js" />
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="44"  alt="Node.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="44"  alt="Node.js" title="Node.js" />
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="44" alt="Nest.js" />
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="44" alt="Nest.js" title="Nest.js" />
 
 </div>
 
-###### Legacy Accounts
+<div align="center">
+
+#### Legacy Accounts
+
+</div>
 
 I'm known to hop from account to account. So, here's some of the ones I've left behind that had substantial
 contributions.
