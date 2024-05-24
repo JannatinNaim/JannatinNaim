@@ -7,7 +7,8 @@
 I do full-stack development within
 the JavaScript/TypeScript ecosystem. You can see my tools of choice down below. Look at my activity below to see what
 I'm working on these days. I also do consulting for small-medium sized projects
-so, [hit me up](mailto:jannatinnaim@pondit.family) if you're interested.
+so, [hit me up](mailto:jannatinnaim@pondit.family) if you're interested. You could also check out my
+[LinkedIn](https://linkedin.com/in/jannatinnaimxiii).
 
 <div align="center">
 
