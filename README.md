@@ -4,11 +4,11 @@
 
 </div>
 
-I do full-stack development within
-the JavaScript/TypeScript ecosystem. You can see my tools of choice down below. Look at my activity below to see what
-I'm working on these days. I also do consulting for small-medium sized projects
-so, [hit me up](mailto:jannatinnaim@pondit.family) if you're interested. You could also check out my
-[LinkedIn](https://linkedin.com/in/jannatinnaimxiii).
+I do full-stack development within the JavaScript/TypeScript ecosystem. Look at
+my activity below to see what I'm working on these days and what tools I'm
+using. I also do consulting for small-medium sized projects so, [hit me
+up](mailto:jannatinnaim@pondit.family) if you're interested. You could also
+check out my [LinkedIn](https://linkedin.com/in/jannatinnaimxiii).
 
 <div align="center">
 
@@ -36,8 +36,8 @@ so, [hit me up](mailto:jannatinnaim@pondit.family) if you're interested. You cou
 
 </div>
 
-I'm known to hop from account to account. So, here's some of the ones I've left behind that had substantial
-contributions.
+I'm known to hop from account to account. So, here's some of the ones I've left
+behind that had substantial contributions.
 
-- [JannatinNaim](https://github.com/jannatinnaim)
-- [jNaimXIII](https://github.com/jNaimXIII)
+-   [JannatinNaim](https://github.com/jannatinnaim)
+-   [jNaimXIII](https://github.com/jNaimXIII)
