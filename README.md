@@ -30,11 +30,7 @@ check out my [LinkedIn](https://linkedin.com/in/jannatinnaimxiii).
 
 </div>
 
-<div align="center">
-
 #### Legacy Accounts
-
-</div>
 
 I'm known to hop from account to account. So, here's some of the ones I've left
 behind that had substantial contributions.
