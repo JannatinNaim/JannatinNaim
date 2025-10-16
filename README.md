@@ -39,5 +39,5 @@ check out my [LinkedIn](https://linkedin.com/in/jannatinnaimxiii).
 I'm known to hop from account to account. So, here's some of the ones I've left
 behind that had substantial contributions.
 
--   [JannatinNaim](https://github.com/jannatinnaim)
+-   [JannatinNaimX3](https://github.com/JannatinNaimX3)
 -   [jNaimXIII](https://github.com/jNaimXIII)
