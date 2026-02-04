@@ -24,6 +24,7 @@
 <img height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg" />
 
 <br>
+<br>
 
 Building secure, performant and maintainable backends since 2022 with these reliable pieces of technology.
 
