@@ -4,11 +4,20 @@
 
 <div align="center">
 
+
 <img height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 &nbsp;&nbsp;
 <img height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
 &nbsp;&nbsp;
 <img height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+&nbsp;&nbsp;
+<img height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
+&nbsp;&nbsp;
+<img height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+&nbsp;&nbsp;    
+<img height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+&nbsp;&nbsp;    
+<img height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" />
 &nbsp;&nbsp;
 <img height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 &nbsp;&nbsp;
