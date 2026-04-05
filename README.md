@@ -1,6 +1,6 @@
-![](./banner.jpg)
+<!-- ![](./banner.jpg) -->
 
-<hr>
+<!-- <hr> -->
 
 <div align="center">
 
