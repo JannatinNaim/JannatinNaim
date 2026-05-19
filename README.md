@@ -33,6 +33,6 @@ Building secure, performant and maintainable backends since 2022 with these reli
 
 [![WakaTime Badge](https://wakatime.com/badge/user/c4bdac5b-f843-49e4-9969-b5ec54c6405a.svg?style=for-the-badge)](https://wakatime.com/@JannatinNaimXIII)
 
-[![WakaTime Coding Time](https://github-readme-stats-jannatinnaim.vercel.app/api/wakatime?username=JannatinNaimXIII&theme=dark&layout=compact&langs_count=8&range=all_time&r=1&hide_title=true&stub=1)](https://wakatime.com/@JannatinNaimXIII)
+[![WakaTime Coding Time](https://github-readme-stats-jannatinnaim.vercel.app/api/wakatime?username=JannatinNaimXIII&theme=dark&layout=compact&langs_count=8&range=all_time&r=1&hide_title=true&stub=7)](https://wakatime.com/@JannatinNaimXIII)
 
 </div>
